@@ -6,7 +6,7 @@ This repository contains the implementational materials from a MSc graduation pr
 Cost and Performance of Semantic Segmentation
 via Percentile-Based Masking"** by Domantas Giržadas
 
-# Description of The Project
+# Description of the Project
 Due to immense computational costs of running image segmentation models, the
 field is beginning to pay more and more attention towards computational efficiency.
 However, the proposed solutions are mostly generic and context-independent, which
